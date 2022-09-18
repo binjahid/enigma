@@ -63,7 +63,7 @@ const Gallery = () => {
   }, []);
 
   return (
-    <section className="bg-primary mb-[12rem]">
+    <section className="bg-primary">
       <div className="sm:min-h-screen h-full w-[90%] m-auto grid sm:grid-cols-2 grid-cols-1 py-[3rem] sm:py-0">
         <div className="flex justify-center items-center h-full">
           <div>

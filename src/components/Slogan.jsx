@@ -17,7 +17,6 @@ const Slogan = () => {
           <div
             className="flex flex-col gap-5 font-medium w-[60%] lgM:w-[85%] text-lg"
             data-aos="fade-left"
-            data-aos-delay="400"
           >
             <p>
               Our vision is sharply focused on evolving brand relationships with

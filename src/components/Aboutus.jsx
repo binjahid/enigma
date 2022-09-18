@@ -24,7 +24,6 @@ const Aboutus = () => {
       <div
         className="font-primary font-bold text-black h-full"
         data-aos="fade-down"
-        data-aos-delay="400"
       >
         <div>
           <h2 className="text-lg font-[800] pb-2">
@@ -49,7 +48,6 @@ const Aboutus = () => {
       <div
         className="font-primary font-bold text-black h-full"
         data-aos="fade-left"
-        data-aos-delay="800"
       >
         <div>
           <h2 className="text-lg font-[800] pb-2">Lan Delucca, Co-Founder:</h2>
