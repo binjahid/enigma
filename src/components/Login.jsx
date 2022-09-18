@@ -44,7 +44,7 @@ const Login = ({ setIsLogin }) => {
   };
 
   return (
-    <section className="min-h-[100vh] w-full flex justify-center items-center">
+    <section className="min-h-[100vh] bg-primary w-full flex justify-center items-center">
       <div
         className="flex items-center sm:gap-5 gap-3 sm:flex-row flex-col"
         data-aos="zoom-in"
@@ -67,7 +67,7 @@ const Login = ({ setIsLogin }) => {
             onChange={handlePasswordChange}
           />
           <BsFillArrowRightCircleFill
-            className="text-3xl text-primary cursor-pointer"
+            className="text-3xl text-[#E5E5E5] cursor-pointer"
             onClick={handleLogin}
           />
         </div>
