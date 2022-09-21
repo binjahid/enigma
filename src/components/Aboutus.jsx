@@ -53,18 +53,18 @@ const Aboutus = () => {
           <h2 className="text-lg font-[800] pb-2">Lan Delucca, Co-Founder:</h2>
           <p className="pb-6">
             Lan is a multi-hyphenate creative that builds businessess. AN avid
-            reader, he helped found the publishing group Chapted House,and
-            acclaimed indie press and champion of deliverse thought, helping us
+            reader, he helped found the publishing group Chapter House,and
+            acclaimed indie press and champion of diverse thought, helping us
             imagine and act upon new futures. He's consulted municipal
-            governments in developing digital strategy for grassroots political
+            governmments in developing digital strategy for grassroots political
             initiatives.
           </p>
           <p className="pb-6">
             In 2019, Delucca opened an aponymous studio, taking a hands-on
-            approach to product design as an acclaimed fine jweler, entrenched
-            fashion and luxury. He's joined European fashion house campaigns
-            under kim jones's Dior and Florence Tetier's jean Paul Gaultier,
-            among others.
+            approach to product design as an acclaimed fine jeweler, entrenched
+            in both fashion and luxury. He's joined European fashion house
+            campaigns under kim jones's Dior and Florence Tetier's jean Paul
+            Gaultier, among others.
           </p>
           <p className="pb-6">
             He's currently engaged in a research project with Howokawa Alpine,
