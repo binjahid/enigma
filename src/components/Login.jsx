@@ -1,6 +1,5 @@
 import React from "react";
 import { BsFillArrowRightCircleFill } from "react-icons/bs";
-import Swal from "sweetalert2";
 
 import logoGif from "../assets/images/enigmaOptimised.gif";
 
@@ -28,17 +27,6 @@ const Login = ({ setIsLogin }) => {
       .then((data) => {
         if (data.status === "success") {
           setIsLogin(true);
-          Swal.fire({
-            icon: "success",
-            title: "Login Successful",
-            text: "Welcome to Enigma Scroll Down to Explore",
-          });
-        } else {
-          Swal.fire({
-            icon: "error",
-            title: "Oops...",
-            text: "Wrong Password!",
-          });
         }
       });
   };

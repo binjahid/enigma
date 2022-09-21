@@ -11,7 +11,7 @@ const Slogan = () => {
             data-aos="fade-left"
           >
             We are a multidisciplinary, shotgun-style creative consulting team,
-            secretly responsible for some of hte defining cultural trends of the
+            secretly responsible for some of the defining cultural trends of the
             2020s{" "}
           </h2>
           <div

@@ -8,7 +8,7 @@ const Aboutus = () => {
           <h2 className="text-lg font-[800] pb-2">Engima, Co-Founder:</h2>
           <p className="pb-6">
             Enigam is a creative director and the Founder of Enigma Curation.
-            Working quietly behid the scenes he single handedly developed the
+            Working quietly behind the scenes he single handedly developed the
             entire pool of reference material for the acclaimed YZY x GAP
             Engineered by Balenciaga collaboration. He's led research
             initiatives at LVMH, and uplifted emergant cutural brands including
@@ -32,7 +32,7 @@ const Aboutus = () => {
           <p className="pb-6">
             APG is a product designer with a focus on human-centered technology.
             A Georgia Tect dropout, he led design innovation and future projects
-            for USBANK and Visa, creating applications to tech Gen Z financial
+            for USBANK and Visa, creating applications to teach Gen Z financial
             literacy. At Chick Fil-A he ushered in a new focus on technology,
             using AI to save money in the stock rooms.
           </p>
@@ -40,7 +40,7 @@ const Aboutus = () => {
             APG has consulted on tech for Virgil Abloh's Louis Vuitton, and
             architecture for kenye West's Yezzy, working with designers and
             local governments to address homelessness. In 2022 he wes tipped by
-            Iddris Sandu for product design ar Spatial Labs,a Jay-X funded tech
+            Iddris Sandu for product design ar Spatial Labs,a Jay-Z funded tech
             incubator.
           </p>
         </div>
