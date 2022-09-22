@@ -5,7 +5,7 @@ const Aboutus = () => {
     <section className="w-[90%] m-auto grid lg:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-12 lgM:gap-5 sm:py-[14rem] py-[7rem]">
       <div className="font-primary font-bold text-black" data-aos="fade-right">
         <div>
-          <h2 className="text-lg font-[800] pb-2">Engima, Co-Founder:</h2>
+          <h2 className="text-lg font-[800] pb-2">Enigma, Co-Founder:</h2>
           <p className="pb-6">
             Enigam is a creative director and the Founder of Enigma Curation.
             Working quietly behind the scenes he single handedly developed the
