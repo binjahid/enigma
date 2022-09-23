@@ -7,7 +7,7 @@ const Aboutus = () => {
         <div>
           <h2 className="text-lg font-[800] pb-2">Enigma, Co-Founder:</h2>
           <p className="pb-6">
-            Enigam is a creative director and the Founder of Enigma Curation.
+            Enigma is a creative director and the Founder of Enigma Curation.
             Working quietly behind the scenes he single handedly developed the
             entire pool of reference material for the acclaimed YZY x GAP
             Engineered by Balenciaga collaboration. He's led research
@@ -31,7 +31,7 @@ const Aboutus = () => {
           </h2>
           <p className="pb-6">
             APG is a product designer with a focus on human-centered technology.
-            A Georgia Tect dropout, he led design innovation and future projects
+            A Georgia Tech dropout, he led design innovation and future projects
             for USBANK and Visa, creating applications to teach Gen Z financial
             literacy. At Chick Fil-A he ushered in a new focus on technology,
             using AI to save money in the stock rooms.
