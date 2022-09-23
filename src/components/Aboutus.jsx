@@ -50,9 +50,9 @@ const Aboutus = () => {
         data-aos="fade-left"
       >
         <div>
-          <h2 className="text-lg font-[800] pb-2">Lan Delucca, Co-Founder:</h2>
+          <h2 className="text-lg font-[800] pb-2">Ian Delucca, Co-Founder:</h2>
           <p className="pb-6">
-            Lan is a multi-hyphenate creative that builds businessess. AN avid
+            Ian is a multi-hyphenate creative that builds businessess. AN avid
             reader, he helped found the publishing group Chapter House,and
             acclaimed indie press and champion of diverse thought, helping us
             imagine and act upon new futures. He's consulted municipal
